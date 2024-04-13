@@ -1,0 +1,12 @@
+.Post {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center !important;
+    flex-direction: column;
+  }
+  
+  img {
+    width: 300px;
+    margin: 10px;
+  }
